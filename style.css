@@ -1,0 +1,14 @@
+/*
+Theme Name: ASAP Systems
+Theme URI: https://asapsystems.com
+Author: ASAP Systems
+Author URI: https://asapsystems.com
+Description: A modern WordPress theme for ASAP Systems inventory and asset tracking solutions
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: asapsystems
+*/
+
+/* Import main styles */
+@import url('assets/css/main.css'); 
